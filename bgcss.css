@@ -9,7 +9,7 @@
     rgba(16, 152, 173, 0.1) 72%,
     rgba(7, 179, 155, 0.1) 86%,
     rgba(109, 186, 130, 0.1) 100%
-  ),url(https://gitee.com/xpand/img/raw/master/gezi.svg);
+  ),url(https://cdn.jsdelivr.net/gh/xiaopengand/blogCdn/img/gezi.svg);
   background: -moz-linear-gradient(
     0deg,
     rgba(247, 149, 51, 0.1) 0,
@@ -20,7 +20,7 @@
     rgba(16, 152, 173, 0.1) 72%,
     rgba(7, 179, 155, 0.1) 86%,
     rgba(109, 186, 130, 0.1) 100%
-  ),url(https://gitee.com/xpand/img/raw/master/gezi.svg);
+  ),url(https://cdn.jsdelivr.net/gh/xiaopengand/blogCdn/img/gezi.svg);
   background: -o-linear-gradient(
     0deg,
     rgba(247, 149, 51, 0.1) 0,
@@ -31,7 +31,7 @@
     rgba(16, 152, 173, 0.1) 72%,
     rgba(7, 179, 155, 0.1) 86%,
     rgba(109, 186, 130, 0.1) 100%
-  ),url(https://gitee.com/xpand/img/raw/master/gezi.svg);
+  ),url(https://cdn.jsdelivr.net/gh/xiaopengand/blogCdn/img/gezi.svg);
   background: -ms-linear-gradient(
     0deg,
     rgba(247, 149, 51, 0.1) 0,
@@ -42,7 +42,7 @@
     rgba(16, 152, 173, 0.1) 72%,
     rgba(7, 179, 155, 0.1) 86%,
     rgba(109, 186, 130, 0.1) 100%
-  ),url(https://gitee.com/xpand/img/raw/master/gezi.svg);
+  ),url(https://cdn.jsdelivr.net/gh/xiaopengand/blogCdn/img/gezi.svg);
   background: linear-gradient(
     90deg,
     rgba(247, 149, 51, 0.1) 0,
@@ -53,5 +53,5 @@
     rgba(16, 152, 173, 0.1) 72%,
     rgba(7, 179, 155, 0.1) 86%,
     rgba(109, 186, 130, 0.1) 100%
-  ),url(https://gitee.com/xpand/img/raw/master/gezi.svg);
+  ),url(https://cdn.jsdelivr.net/gh/xiaopengand/blogCdn/img/gezi.svg);
 }
